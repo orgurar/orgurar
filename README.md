@@ -43,7 +43,6 @@
   <img src="https://raw.githubusercontent.com/Railly/ColoredBadges/master/svg/dev/tools/visualstudio.svg" alt="visualstudio" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/Railly/ColoredBadges/master/svg/dev/tools/android_studio_colour.svg" alt="android_studio" style="vertical-align:top; margin:4px">
 </p>
-<br />
 
 ## Skills
 
@@ -55,15 +54,25 @@
 
 ## Top Projects
 
-### Cyber Security and Cryptography
+### Cyber Security
 
 - **[Doraemon](https://github.com/orgurar/doraemon)** - Command & Control system for Windows written in Python and C++
 - **[Microsoft Template Malware Injection](https://github.com/orgurar/ms-template-injection)** - C++ and VB implementation of microsoft template injection vulnerability
+
+### Cryptography
+
 - **[Python AES System](https://github.com/orgurar/python-aes)** - Pure Python AES implementation
+- **[SSL / TLS Server Side Implementation]()** - SSL Server implementation ([rfc8446](https://datatracker.ietf.org/doc/html/rfc8446))
+
+### Networking
+
+- **[TCP Hole Punching Implementation](https://github.com/orgurar/python-aes)** - TCP based hole punching peer 2 peer comunication technique
 
 ### Open Source Software
 
 - **[Recognotes](https://github.com/orgurar/recognotes)** - Real-time notes detector and musical sheets generator open source software
 - **[Recognotes for Android](https://github.com/orgurar/ms-template-injection)** - Android Mobile App client for the recognotes software.
+
+<br />
 
 <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
