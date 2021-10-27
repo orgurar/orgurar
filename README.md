@@ -64,11 +64,12 @@
 ### Cryptography
 
 - **[Python AES System](https://github.com/orgurar/python-aes)** - Pure Python AES implementation
-- **[SSL / TLS 1.3 Server Side Implementation]()** - SSL Server implementation ([rfc8446](https://datatracker.ietf.org/doc/html/rfc8446))
+<!-- - **[SSL / TLS 1.3 Server Side Implementation]()** - SSL Server implementation ([rfc8446](https://datatracker.ietf.org/doc/html/rfc8446)) -->
 
 ### Networking
 
-- **[TCP Hole Punching Implementation](https://github.com/orgurar/python-aes)** - TCP based hole punching peer 2 peer comunication technique
+- **[UDP Hole Punching](https://github.com/orgurar/udp-hole-punching)** - UDP based hole punching peer 2 peer comunication technique
+- **[TCP Hole Punching](https://github.com/orgurar/python-aes)** - TCP more advanced hole punching peer 2 peer comunication technique
 
 ### Open Source Software
 
