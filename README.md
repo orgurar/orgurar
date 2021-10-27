@@ -8,7 +8,9 @@
  
 <br />
 
-## Favorite Languages
+## About Me
+
+### Favorite Languages
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/Railly/ColoredBadges/master/svg/dev/languages/cpp.svg" alt="cpp" style="vertical-align:top; margin:4px">
@@ -20,7 +22,7 @@
   <img src="https://raw.githubusercontent.com/Railly/ColoredBadges/master/svg/dev/languages/csharp_dotnet.svg" alt="css3" style="vertical-align:top; margin:4px">
 </p>
 
-## Frameworks I use
+### Frameworks I use
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/Railly/ColoredBadges/master/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px">
@@ -29,7 +31,7 @@
   <img src="https://raw.githubusercontent.com/Railly/ColoredBadges/master/svg/dev/frameworks/wpf.svg" alt="wpf" style="vertical-align:top; margin:4px">
 </p>
 
-## Services and Tools
+### Services and Tools
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/Railly/ColoredBadges/master/svg/dev/tools/docker.svg" alt="docker" style="vertical-align:top; margin:4px">
@@ -44,7 +46,7 @@
   <img src="https://raw.githubusercontent.com/Railly/ColoredBadges/master/svg/dev/tools/android_studio_colour.svg" alt="android_studio" style="vertical-align:top; margin:4px">
 </p>
 
-## Skills
+### Skills
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/Railly/ColoredBadges/master/svg/dev/misc/web.svg" alt="web" style="vertical-align:top; margin:4px">
