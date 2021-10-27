@@ -62,7 +62,7 @@
 ### Cryptography
 
 - **[Python AES System](https://github.com/orgurar/python-aes)** - Pure Python AES implementation
-- **[SSL / TLS Server Side Implementation]()** - SSL Server implementation ([rfc8446](https://datatracker.ietf.org/doc/html/rfc8446))
+- **[SSL / TLS 1.3 Server Side Implementation]()** - SSL Server implementation ([rfc8446](https://datatracker.ietf.org/doc/html/rfc8446))
 
 ### Networking
 
