@@ -68,8 +68,8 @@
 
 ### Networking
 
-- **[UDP Hole Punching](https://github.com/orgurar/udp-hole-punching)** - UDP based hole punching peer 2 peer comunication technique
-- **[TCP Hole Punching](https://github.com/orgurar/python-aes)** - TCP more advanced hole punching peer 2 peer comunication technique
+- **[Hole Punching](https://github.com/orgurar/udp-hole-punching)** - UDP based hole punching peer 2 peer comunication technique implemented with C
+<!-- - **[TCP Hole Punching](https://github.com/orgurar/python-aes)** - TCP more advanced hole punching peer 2 peer comunication technique -->
 
 ### Open Source Software
 
