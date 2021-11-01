@@ -74,7 +74,7 @@
 ### Open Source Software
 
 - **[Recognotes](https://github.com/orgurar/recognotes)** - Real-time notes detector and musical sheets generator open source software
-- **[Recognotes for Android](https://github.com/orgurar/ms-template-injection)** - Android Mobile App client for the recognotes software.
+- **[Recognotes for Android](https://github.com/orgurar/recognotes-mobile)** - Android Mobile App client for the recognotes software.
 
 <br />
 
