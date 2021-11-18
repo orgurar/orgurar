@@ -59,7 +59,7 @@
 ### Cyber Security
 
 - **[Doraemon](https://github.com/orgurar/doraemon)** - Command & Control system for Windows written in Python and C++
-- **[Microsoft Template Malware Injection](https://github.com/orgurar/ms-template-injection)** - C++ and VB implementation of microsoft template injection vulnerability
+<!-- - **[Microsoft Template Malware Injection](https://github.com/orgurar/ms-template-injection)** - C++ and VB implementation of microsoft template injection vulnerability -->
 
 ### Cryptography
 
