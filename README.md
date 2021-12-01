@@ -60,6 +60,7 @@
 
 - **[Doraemon](https://github.com/orgurar/doraemon)** - Command & Control system for Windows written in Python and C++
 - **[Microsoft Template Malware Injection](https://github.com/orgurar/ms-template-injection)** - C++ and VB implementation of microsoft template injection vulnerability
+- **[Rust Agnet](https://github.com/orgurar/rust-agnet)** - Command & Control agent for Windows written in the Rust programming language
 
 ### Cryptography
 
