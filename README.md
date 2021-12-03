@@ -14,6 +14,7 @@
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/Railly/ColoredBadges/master/svg/dev/languages/cpp.svg" alt="cpp" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/Railly/ColoredBadges/master/svg/dev/languages/rust.svg" alt="cpp" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/Railly/ColoredBadges/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/Railly/ColoredBadges/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/Railly/ColoredBadges/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">
