@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
    <h1>Hi there, I'm Or Gur Arie</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 </div>
 
@@ -53,7 +53,7 @@
   <img src="https://raw.githubusercontent.com/Railly/ColoredBadges/master/svg/dev/misc/web.svg" alt="web" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/Railly/ColoredBadges/master/svg/dev/misc/security.svg" alt="security" style="vertical-align:top; margin:4px">
 </p>
-<br />
+<br /> -->
 
 ## Top Projects
 
